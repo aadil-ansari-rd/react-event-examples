@@ -17,7 +17,7 @@ function Add(props){
    )
 }
 
-Add.defaultexports={
+Add.defaultProps={
     firstNo:30
 }
 export default Add;
